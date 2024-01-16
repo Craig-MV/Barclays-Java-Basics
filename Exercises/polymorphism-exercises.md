@@ -8,7 +8,7 @@ Create a class called **Calculator** with method for **addition**. Implement met
 
 ## Exercise 2: Method Overriding
 
-Create a class called **Shape** with an abstract method **calculateArea()**. Implement two classes, **Circle** and **Rectangle**, that extend the **Shape** class and provide their own implementations for calculating the area.
+Create an abstract class called **Shape** with an abstract method **calculateArea()**. Implement two classes, **Circle** and **Rectangle**, that extend the **Shape** class and provide their own implementations for calculating the area.
 
 ## Exercise 3: Runtime Polymorphism
 
