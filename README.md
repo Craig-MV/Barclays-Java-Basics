@@ -1,8 +1,8 @@
 ## Explainers
-[Inheritance](inheritance.md) |
-[Encapsulation](encapsulation.md) |
-[Abstraction](abstraction.md) |
-[Polymorphism](polymorphism.md)
+[Inheritance](Explainers/inheritance.md) |
+[Encapsulation](Explainers/encapsulation.md) |
+[Abstraction](Explainers/abstraction.md) |
+[Polymorphism](Explainers/polymorphism.md)
 
 ## Exercises
 [Inheritance Exercise](Exercises/inheritance-exercises.md) |
