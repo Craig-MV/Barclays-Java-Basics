@@ -1,4 +1,8 @@
 ## Explainers
+[Data Types](Explainers/datatypes.md) |
+[Methods](Explainers/methods.md) |
+[Static](Explainers/static.md) |
+[Classes and Objects](Explainers/classobject.md) |
 [Inheritance](Explainers/inheritance.md) |
 [Encapsulation](Explainers/encapsulation.md) |
 [Abstraction](Explainers/abstraction.md) |
