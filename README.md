@@ -4,12 +4,14 @@
 [Conditionals](Explainers/conditional.md) |
 [Iteration](Explainers/iteration.md) |
 [Data Structures](Explainers/datastructures.md) |
+[Casting](Explainers/casting.md) |
 [Static](Explainers/static.md) |
 [Classes and Objects](Explainers/classobject.md) |
 [Inheritance](Explainers/inheritance.md) |
 [Encapsulation](Explainers/encapsulation.md) |
 [Abstraction](Explainers/abstraction.md) |
-[Polymorphism](Explainers/polymorphism.md)
+[Polymorphism](Explainers/polymorphism.md) |
+[Debugging](Explainers/debugging.md)
 
 ## Exercises
 [Data Type Exercise](Exercises/datatype-exercises.md) |
